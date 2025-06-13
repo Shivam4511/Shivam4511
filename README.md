@@ -83,7 +83,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: shivam4511official@gmail.com  
+- 📧 Email: shivampanigrahi304@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-panigrahi-45sh2004/)  
 - 🧑‍💻 [GitHub](https://github.com/Shivam4511)  
 - 🎥 [Leetcode](https://leetcode.com/u/ShivamPanigrahi1007/)  
