@@ -51,7 +51,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 [ML-Model](https://github.com/Shivam4511/ML-Model)
+### 🔬 [Yoca](https://github.com/Shivam4511/Yoca)
 > 📊 Predict chronic diseases using lab reports  
 > 🔍 Visualizations + Trained RandomForest Model  
 > ✅ Ready for integration in healthcare apps
