@@ -9,9 +9,9 @@
 
 ## 🧠 About Me
 
-- 🎓 CS Undergrad 
+- 🎓 Computer Science Undergrad 
 - 🔬 Researcher in **AI-driven Healthcare**  
-- 📱 Currently building fully tuned ML models, integrating in day to day apps, "Flutter + FastAPI + Machine Learning"
+- 📱 Currently building fully tuned ML models, integrating in day to day apps, using Flutter, ML, Flask
 - 🎯 Focused on **ML/DL, MLOps, Computer Vision**, and **Inclusive EdTech**  
 - 🎨 Freelance **3D Logo, Poster & Motion Designer**
 
