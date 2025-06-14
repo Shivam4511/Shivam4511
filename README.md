@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI & ML Engineer | Flutter Developer | Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+Engineer;Flutter+App+Developer;Healthcare+AI+Projects;Design+and+Innovation+Enthusiast&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+Engineer;AI+Integration;Flutter+App+Developer;Design+and+Innovation+Enthusiast&center=true&width=500&height=40" />
 </p>
 
 ---
