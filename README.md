@@ -57,9 +57,13 @@
 > ✅ Ready for integration in healthcare apps
 
 ### 🚘 [TrackMyLane](https://github.com/Shivam4511/TrackMyLane)
-🛣️ Real-time lane detection system using Computer Vision
+
+> 🛣️ Real-time lane detection system using Computer Vision
+
 > 🧠 Built with OpenCV and Python, processes dashcam footage
+
 > 📍 Displays driving instructions like "Stay in Lane" and "Lane Departure"
+
 > 🎯 Modular and scalable for ADAS integration and autonomous driving R&D
 
 ### 🧠 [Face Detection System](https://github.com/Shivam4511/Face-Detection-System)
