@@ -56,11 +56,11 @@
 > 🔍 Visualizations + Trained RandomForest Model  
 > ✅ Ready for integration in healthcare apps
 
-🚘 [TrackMyLane](https://github.com/Shivam4511/TrackMyLane)
+### 🚘 [TrackMyLane](https://github.com/Shivam4511/TrackMyLane)
 🛣️ Real-time lane detection system using Computer Vision
-🧠 Built with OpenCV and Python, processes dashcam footage
-📍 Displays driving instructions like "Stay in Lane" and "Lane Departure"
-🎯 Modular and scalable for ADAS integration and autonomous driving R&D
+> 🧠 Built with OpenCV and Python, processes dashcam footage
+> 📍 Displays driving instructions like "Stay in Lane" and "Lane Departure"
+> 🎯 Modular and scalable for ADAS integration and autonomous driving R&D
 
 ### 🧠 [Face Detection System](https://github.com/Shivam4511/Face-Detection-System)
 > 👤 Face recognition system using OpenCV & Python  
@@ -74,14 +74,6 @@
 
 > ✨ And many more—check the pinned repos!
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam4511&show_icons=true&theme=radical" width="47%"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam4511&layout=compact&theme=radical" width="47%"/>
-</p>
 
 ---
 
