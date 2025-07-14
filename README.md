@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI & ML Engineer | Flutter Developer | Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+Engineer;AI+Integration;Flutter+App+Developer;Design+and+Innovation+Enthusiast&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+Engineer;AI+Integration;Full+stack+Applications;Design+and+Innovation+Enthusiast&center=true&width=500&height=40" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science Undergrad 
 - 🔬 Researcher in **AI-driven Healthcare**  
-- 📱 Currently building fully tuned ML models, integrating in day to day apps, using Flutter, ML, Flask
+- 📱 Currently building fully tuned ML models, integrating in day to day apps, using HTML,CSS, ML, Flask
 - 🎯 Focused on **ML/DL, MLOps, Computer Vision**, and **Inclusive EdTech**  
 - 🎨 Freelance **3D Logo, Poster & Motion Designer**
 
