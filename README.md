@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Panigrahi</h1>
-<h3 align="center">🚀 AI & ML Engineer | Flutter Developer | Designer</h3>
+<h3 align="center">🚀 AI & ML Engineer | Agentic AI | Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+ML+Engineer;AI+Integration;Full+stack+Applications;Design+and+Innovation+Enthusiast&center=true&width=500&height=40" />
